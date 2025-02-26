@@ -1,0 +1,8 @@
+train: /content/drive/MyDrive/Data/images/train/ 
+val:  /content/drive/MyDrive/Data/images/valid/
+
+# number of classes
+nc: 1
+
+# Classes
+names: ['skin-disease']  # class names
